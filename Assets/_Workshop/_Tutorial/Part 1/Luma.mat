@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Grand Star
-  m_Shader: {fileID: -6465566751694194690, guid: 580098a0d113caf44a396a5af0e52ed8,
+  m_Name: Luma
+  m_Shader: {fileID: -6465566751694194690, guid: be12384c8d36a144390ef5e482b02e8c,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -38,18 +38,13 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Emission_Amplitude: 1.77
-    - _Emission_Offset: 1.35
-    - _Emission_Wavelength: 0.18
-    - _Jitter_Amplitude: 0.01
-    - _Jitter_Wavelength: 0.05
-    - _Metallic: 0.89
+    - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Color: {r: 3.8188677, g: 2.586842, b: 0.3386541, a: 0}
+    - _Color: {r: 15.8133955, g: 10.532766, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &719100952818600858
+--- !u!114 &3164381138360090989
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
